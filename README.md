@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/VideoEditor/Creator)`**
 
-Hey Hi ! I am Atharv More currently a student in Information technology diploma (3yr), just a guy interested in tech and stuff and always ready to learn and grow with the world & people , Aiming to be my best self, working on my skills and projects mostly foss , open to anything and everything as person maybe . idk , for now i am on journey to exploring this world, smart enough and make and shape things , design with creativity and  Intelligents. Surfing on the digital world ! and upcoming future fellow engineer     
+Hey Hi ! I am Atharv More currently a student in Information technology diploma (3yr), just a guy interested in tech and stuff and always ready to learn and grow with the world & people , Aiming to be my best self, working on my skills and projects mostly foss , open to anything and everything as person maybe . idk , for now i am on journey to exploring this world, smart enough and make and shape things , design with creativity and  Intelligents. Surfing on the digital world ! and upcoming future fellow engineer bruh.     
 
 ---
 
@@ -41,6 +41,15 @@ Hey Hi ! I am Atharv More currently a student in Information technology diploma 
 
 ### 💬 Contact
 
-<a href="https://discord.com/users/77963055128693964" rel="nofollow"> <img src="https://custom-icon-badges.demolab.com/badge/-INSTAGRAM-F25278?style=for-the-badge&logo=&logoColor=white" alt="insta" style="max-width: 100%;" width="125" height="35"> </a>
+<a href="https://discord.com/users/77963055128693964" rel="nofollow"> <img src="https://custom-icon-badges.demolab.com/badge/-Discord-purple?style=for-the-badge&logo=comment-&logoColor=black" alt="discord" style="max-width: 100%" width="100" height="35"> </a>
+<a href="https://www.instagram.com/atharv_more3/" rel="nofollow"> <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-F25278?style=for-the-badge&logo=&logoColor=white" alt="insta" style="max-width: 100%;" width="100" height="35"> </a>
+<a href="https://www.linkedin.com/in/atharv-more-409a5a240/" rel="nofollow"><img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-darkblue?style=for-the-badge&logo=&logoColor=white" alt="link" style="max-width: 100%" width="100" height="35"/> </a>
+<a href="https://twitter.com/AtharvM46335572" rel="nofollow"><img src="https://custom-icon-badges.demolab.com/badge/-twitter-blue?style=for-the-badge&logo=&logoColor=white" alt="link" style="max-width: 100%" width="100" height="35"/> </a>
 
-          
+
+
+
+
+
+
+
