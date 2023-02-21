@@ -40,7 +40,7 @@ Hey Hi ! I am Atharv More currently a student in Information technology diploma 
 ---
 
 ### 💬 Contact
-<img align="left" alt="niggeshwar#0721" width="100px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-Discord-plum?style=for-the-badge&logo=comment-discord&logoColor=black"/>
+<img align="left" alt="niggeshwar#0721" width="110px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-Discord-plum?style=for-the-badge&logo=comment-discord&logoColor=black"/>
 
 
 
