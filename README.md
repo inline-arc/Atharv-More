@@ -51,7 +51,7 @@ Hey Hi ! I am Atharv More currently a student in Information technology diploma 
 
 ### 🔰 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inline-arc&show_icons=true&theme=ocean_dark)
+![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=inline-arc&show_icons=true&theme=ocean_dark)
 
 
 
